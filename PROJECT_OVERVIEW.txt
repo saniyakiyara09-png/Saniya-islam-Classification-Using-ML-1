@@ -1,0 +1,7 @@
+Project: Soil Fertility Classification Using Machine Learning
+Student: Saniya Islam
+Dataset: 1,000 source-calibrated synthetic teaching records
+Models: Decision Tree, Random Forest, KNN, SVM
+Selected model in this run: SVM (highest macro F1)
+Run: pip install -r requirements.txt ; python -m src.train ; streamlit run app.py
+Read README.md and docs/PROJECT_REPORT.md before presenting the project.
